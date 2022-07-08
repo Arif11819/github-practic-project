@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../assets/images/justice-logo.png'
+import logo from '../../assets/images/justice logo.png'
 import { AiOutlineInstagram } from 'react-icons/ai'
 import { BsFacebook } from 'react-icons/bs'
 import { AiFillTwitterSquare } from 'react-icons/ai'
@@ -30,7 +30,7 @@ const Footer = () => {
                 </div>
                 <div>
                     <div>
-                        <h2 className='text-[#EFC980] font-bold text-3xl'>Useful Links</h2>
+                        <h2 className='text-[#EFC980] font-bold text-3xl text-center'>Useful Links</h2>
                         <div className='text-white mt-10 font-bold flex justify-center'>
                             <div>
                                 <div className='flex items-center gap-6'>
@@ -51,7 +51,7 @@ const Footer = () => {
                 </div>
                 <div>
                     <div>
-                        <h2 className='text-[#EFC980] font-bold text-3xl'>Contact Info</h2>
+                        <h2 className='text-[#EFC980] font-bold text-3xl text-center'>Contact Info</h2>
                         <div className='text-white mt-10 font-bold flex justify-center'>
                             <div>
                                 <div className='flex items-center gap-6'>

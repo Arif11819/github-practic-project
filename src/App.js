@@ -1,11 +1,20 @@
 import './App.css';
-import Home from './components/Home';
+import Card from './components/Card/Card';
+import ClientsSay from './components/Clients/Clients';
+import Footer from './components/Footer/Footer';
+import Header from './components/Header/Header';
+import HowDOIt from './components/Product/HowDOIt';
+
 
 function App() {
   return (
-    <div className="App">
-      <Home />
-    </div>
+    <>
+      <Header />
+      <Card />
+      <ClientsSay />
+      <HowDOIt />
+      <Footer />
+    </>
   );
 }
 
