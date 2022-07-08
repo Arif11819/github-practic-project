@@ -9,13 +9,13 @@ import HowDOIt from './components/Product/HowDOIt';
 
 function App() {
   return (
-    <div className="App">
-        <Header />
-        <Card />
-        <ClientsSay />
-        <HowDOIt />
-        <Footer />
-    </div>
+    <>
+      <Header />
+      <Card />
+      <ClientsSay />
+      <HowDOIt />
+      <Footer></Footer>
+    </>
   );
 }
 
