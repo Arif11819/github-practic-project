@@ -1,9 +1,11 @@
 import './App.css';
+import HowDOIt from './components/Product/HowDOIt';
 
 function App() {
   return (
-    <div className="App">
-    </div>
+    <>
+
+    </>
   );
 }
 
