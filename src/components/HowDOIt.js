@@ -1,6 +1,5 @@
 import React from 'react';
 import image from '../images/justice logo.png';
-import './HowDoIt.css';
 import vactor from '../images/Vector.png'
 
 const HowDOIt = () => {
@@ -9,7 +8,7 @@ const HowDOIt = () => {
             <div class="hero min-h-screen bg-s-200">
                 <div class="hero-content flex-col lg:flex-row">
                     <div className='class="max-w-min h-fit	 rounded-lg shadow-2xl text-center '>
-                        <img src={image}  />
+                        <img src={image} alt="" />
 
                         <h1 className='text-3xl '>OPEYEMI LEGAL SERVICES</h1>
                         <p className='mb-8' >we are the best</p>
