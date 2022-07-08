@@ -7,7 +7,7 @@ import { AiOutlineRight } from 'react-icons/ai'
 import { FaHome } from 'react-icons/fa'
 import { MdCall } from 'react-icons/md'
 import { MdEmail } from 'react-icons/md'
-import { FaCopyright } from 'react-icons/fa'
+import { FaCopyright } from 'react-icons/fa';
 
 
 const Footer = () => {
