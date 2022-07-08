@@ -4,6 +4,7 @@ function App() {
   return (
     <div className="App">
       <h1 className='text-4xl'>Hello From Github Practic Project</h1>
+      <h1>Card Added</h1>
     </div>
   );
 }
