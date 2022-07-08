@@ -1,11 +1,21 @@
 import './App.css';
+import Card from './components/Card/Card';
+import ClientsSay from './components/Clients/Clients';
+import Footer from './components/Footer/Footer';
+
+import Header from './components/Header/Header';
+import HowDOIt from './components/Product/HowDOIt';
+
 
 function App() {
   return (
-    <div className="App">
-      <h1 className='text-4xl'>Hello From Github Practic Project</h1>
-      <h2>Components Added</h2>
-    </div>
+    <>
+      <Header />
+      <Card />
+      <ClientsSay />
+      <HowDOIt />
+      <Footer></Footer>
+    </>
   );
 }
 
