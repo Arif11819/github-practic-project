@@ -1,0 +1,21 @@
+.card-section {
+    background-color: rgba(55, 54, 73, 1);
+    /* width: 525px; */
+    height: 450px;
+}
+
+.card-img {
+    height: 100px;
+    /* width: 100px; */
+    margin-top: 54px;
+}
+
+.card-text {
+    color: white;
+    margin-top: 60px;
+    /* width: 332px; */
+    height: 105px;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 62px;
+}

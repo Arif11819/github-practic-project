@@ -1,6 +1,6 @@
 import React from 'react';
-import image from '../images/justice logo.png';
-import vactor from '../images/Vector.png'
+import image from '../../assets/images/justice logo.png';
+import vactor from '../../assets/images/Vector.png'
 
 const HowDOIt = () => {
     return (
