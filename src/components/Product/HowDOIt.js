@@ -15,12 +15,12 @@ const HowDOIt = () => {
                     </div>
                     <div className='class="max-w-min h-fit 	 rounded-lg shadow-2xl text-center bg-white p-10'>
                         <h1 className='text-4xl mb-16'>HOW WE DO IT!</h1>
-                        <span className='flex  mb-5'><img src={vactor} alt="" className='h-6' /> <p className='ml-10 text-xl'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p></span> 
-                        <span className='flex  mb-5'><img src={vactor} alt="" className='h-6' /> <p className='ml-10 text-xl'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p></span> 
-                        <span className='flex  mb-5'><img src={vactor} alt="" className='h-6' /> <p className='ml-10 text-xl'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p></span> 
-                        <span className='flex  mb-5'><img src={vactor} alt="" className='h-6' /> <p className='ml-10 text-xl'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p></span> 
-                        
-                        
+                        <span className='flex  mb-5'><img src={vactor} alt="" className='h-6' /> <p className='ml-10 text-xl'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p></span>
+                        <span className='flex  mb-5'><img src={vactor} alt="" className='h-6' /> <p className='ml-10 text-xl'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p></span>
+                        <span className='flex  mb-5'><img src={vactor} alt="" className='h-6' /> <p className='ml-10 text-xl'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p></span>
+                        <span className='flex  mb-5'><img src={vactor} alt="" className='h-6' /> <p className='ml-10 text-xl'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p></span>
+
+
                     </div>
                 </div>
             </div>
